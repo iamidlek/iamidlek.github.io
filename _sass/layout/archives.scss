@@ -12,7 +12,7 @@
   background-color: var(--timeline-color);
 }
 
-#archives {
+#log {
   letter-spacing: 0.03rem;
 
   span.lead {
@@ -68,7 +68,7 @@
 
       &:nth-child(odd) {
         background-color: var(--main-wrapper-bg, #fff);
-        background-image: linear-gradient(to left, #fff, #fbfbfb, #fbfbfb, #fbfbfb, #fff);
+        // background-image: linear-gradient(to left, #fff, #fbfbfb, #fbfbfb, #fbfbfb, #fff);
       }
 
       &::after {
@@ -134,7 +134,7 @@
 } // #archives
 
 @media all and (max-width: 576px) {
-  #archives {
+  #log {
     margin-top: -1rem;
     ul {
       letter-spacing: 0;
