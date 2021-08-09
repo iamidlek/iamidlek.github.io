@@ -6,7 +6,7 @@ categories: [Blog, Docusaurus]
 tags: [Docusaurus]
 ---
 
-## 간단하게 나만의 블로그 생성 도전기
+## 블로그 생성 도전기
 
 구글 검색으로 **정적 사이트 생성기(SSG, Static Site Generator)**가 있다는 것을 알게 되었다.
 - 지킬(Jekyll)
@@ -35,7 +35,7 @@ html/css, js에 대한 지식이 없어서일까? 첫 도전은 실패로 끝났
 설치 과정 중 헷갈릴 수 있는 부분을 정리해보았다.  
 (위에서 언급했듯 js에 대한 지식이 전혀 없는 상태의 사람이 느끼는 어려움이다.)
 
-### Tip
+### 헷갈림 Point
 
 #### 1. Node.js 설치 (npm, npx)
 
@@ -69,15 +69,19 @@ npm install 패키지명 -g
 
 #### 2. 개발 서버 실행
 
-설치를 원하는 폴더에서  
+터미널에서 원하는 폴더로 이동한 후 이하의 코드를 실행
 ```
 npx @docusaurus/init@latest init my-website classic
 ```
 실행하면 my-website 의 폴더가 생성된다.
-cd my-website 으로 폴더 안으로 들어가자.  
+init(초기화) 뒤에오는 정보는 [폴더명] [스타일] 이다.  
+
+cd my-website 으로 폴더 안으로 들어가자.
+이동을 하였다면 이하의 코드를 실행  
 ```
-yarn run start
+yarn start
 ```
+
 만들어진 사이트를 로컬에서 구동해 볼 수 있다.
 웹 브라우저에 아래의 주소를 입력해보자.
 ```
