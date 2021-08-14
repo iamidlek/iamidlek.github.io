@@ -2,7 +2,7 @@
 title: Git flow
 author: YHole
 date: 2021-08-02 +0900
-categories: [프론트 엔드, Git]
+categories: [Front end, Git]
 tags: [Git, Github, git-flow]
 ---
 

@@ -2,7 +2,7 @@
 title: js-prototype-class
 author: YHole
 date: 2021-08-04 +0900
-categories: [프론트 엔드, js]
+categories: [Front end, js]
 tags: [js, object, 프로토타입, prototype, class, 클래스]
 ---
 

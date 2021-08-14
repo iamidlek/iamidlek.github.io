@@ -2,7 +2,7 @@
 title: Git 이란?
 author: YHole
 date: 2021-07-27 +0900
-categories: [프론트 엔드, Git]
+categories: [Front end, Git]
 tags: [Git, Github]
 ---
 

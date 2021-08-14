@@ -2,7 +2,7 @@
 title: js-data & JSON
 author: YHole
 date: 2021-08-04 +0900
-categories: [프론트 엔드, js]
+categories: [Front end, js]
 tags: [js, data, Shallow copy, Deep copy, 얕은 복사, 깊은 복사, import, JSON]
 ---
 

@@ -2,7 +2,7 @@
 title: js-array-instance-methods
 author: YHole
 date: 2021-08-03 +0900
-categories: [프론트 엔드, js]
+categories: [Front end, js]
 tags: [js, array, 배열, instance methods, 내장 함수, 고차 함수]
 ---
 

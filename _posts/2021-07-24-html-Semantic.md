@@ -2,7 +2,7 @@
 title: HTML Semantic
 author: YHole
 date: 2021-07-24 +0900
-categories: [프론트 엔드, html]
+categories: [Front end, html]
 tags: [html, semantic]
 ---
 
