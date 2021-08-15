@@ -3,7 +3,7 @@ title: js-data & JSON
 author: YHole
 date: 2021-08-04 +0900
 categories: [Front end, js]
-tags: [js, data, Shallow copy, Deep copy, 얕은 복사, 깊은 복사, import, JSON]
+tags: [js, data, Shallow copy, Deep copy, import, JSON]
 ---
 
 ## 표준 내장 객체

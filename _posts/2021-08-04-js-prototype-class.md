@@ -3,7 +3,7 @@ title: js-prototype-class
 author: YHole
 date: 2021-08-04 +0900
 categories: [Front end, js]
-tags: [js, object, 프로토타입, prototype, class, 클래스]
+tags: [js, object, prototype, class]
 ---
 
 ## prototype 활용

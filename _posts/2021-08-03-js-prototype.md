@@ -3,7 +3,7 @@ title: js-prototype
 author: YHole
 date: 2021-08-03 +0900
 categories: [Front end, js]
-tags: [js, object, 프로토타입, prototype]
+tags: [js, object, prototype]
 ---
 
 ## prototype 정의
