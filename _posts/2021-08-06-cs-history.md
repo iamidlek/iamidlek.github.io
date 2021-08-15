@@ -2,8 +2,8 @@
 title: cs-History
 author: YHole
 date: 2021-08-06 +0900
-categories: [CS, 운영체제]
-tags: [cs, 운영체제]
+categories: [CS, Operating System]
+tags: [cs, Operating System]
 ---
 
 ## 대표적인 운영체제 Operating System
