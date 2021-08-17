@@ -73,3 +73,5 @@ tags: [special character]
 <tr><td>æ</td><td>&amp;#230;</td><td>&amp;aelig;</td><td>Small ae diphthong (ligature)</td></tr>
 <tr><td>÷</td><td>&amp;#247;</td><td>&amp;divide;</td><td>Division sign</td></tr>
 <tr><td>ø</td><td>&amp;#248;</td><td>&amp;oslash;</td><td>Small o, slash</td></tr>
+</tbody>
+</table>
