@@ -6,7 +6,7 @@ categories: [Front end, practical exercise]
 tags: [clone, starbucks, practical]
 ---
 
-## clone 한 내용
+## clone 내용
 
 > 최종 결과 메인 페이지, 로그인 페이지
 
