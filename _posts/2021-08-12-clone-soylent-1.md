@@ -54,7 +54,7 @@ tags: [clone, soylent, practical]
   - country-flag
     - 기본 언어
     - 선택지 드롭다운 (숨겨놓기)
-  - 로그인, 쇼핑내역
+  - 로그인, 쇼핑내역 아이콘
 
 - 메인 네비 영역
   - 드롭다운 아이콘 (구글 아이콘)
@@ -170,6 +170,6 @@ btnlearnEls.addEventListener('mouseout',function () {
 
 ## 느낀점
 
-- 구조를 잘 짜지 않으면 효과주기가 굉자히 어렵다
+- html구조를 잘 짜지 않으면 효과주기가 굉자히 어렵다
 - css의 효과가 생각보다 마음대로 설정되지 않는다
 - js 아직 익숙하지 않아서 코드 만들기가 힘들다
