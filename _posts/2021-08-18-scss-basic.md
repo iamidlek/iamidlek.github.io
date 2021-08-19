@@ -40,11 +40,12 @@ tags: [clone, starbucks, practical]
   "scripts": {
     "dev": "parcel index.html",
     "build": "parcel bulid index.html"
-  },
+  }
   ```
 5. index.html 만들기
 6. main.scss 만들기
 7. 연결 상태 확인하기
+
   ```html
   <link rel="stylesheet" href="main.scss" />
   ```
