@@ -2,8 +2,8 @@
 title: scss-basic
 author: YHole
 date: 2021-08-18 +0900
-categories: [Front end, practical exercise]
-tags: [clone, starbucks, practical]
+categories: [Front end, css]
+tags: [css, sass, scss]
 ---
 
 ## scss를 사용해보자
