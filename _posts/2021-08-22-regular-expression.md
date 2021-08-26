@@ -2,7 +2,7 @@
 title: 정규 표현식(Regular Expression)
 author: YHole
 date: 2021-08-22 +0900
-categories: [Blog, supplementary data]
+categories: [Front end, js]
 tags: [regular expression, regexp]
 ---
 
