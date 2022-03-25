@@ -39,3 +39,23 @@ docker push 도커아이디/레포지토리:v1.0.0
 docker rmi 도커아이디/레포지토리:v1.0.0
 docker pull 도커아이디/레포지토리:v1.0.0
 ```
+
+# AWS
+
+## ECR
+
+### repository
+
+- 레포지토리 만들기
+
+### AWS CLI
+
+```bash
+docker pull nginx
+aws sts get-caller-identity
+
+aws ecr get-login-password .. # 붙여넣기
+
+docker tag nginx:latest [붙여 넣은 내용]/레포지토리:v1.0.0
+docker push [붙여 넣은 내용]/레포지토리:v1.0.0
+```
