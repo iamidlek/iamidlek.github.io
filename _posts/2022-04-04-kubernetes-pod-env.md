@@ -1,7 +1,7 @@
 ---
 title: 쿠버네티스 - pod env
 author: YHole
-date: 2022-04-02 +0900
+date: 2022-04-04 +0900
 categories: [CS, Docker]
 tags: [Docker]
 ---
