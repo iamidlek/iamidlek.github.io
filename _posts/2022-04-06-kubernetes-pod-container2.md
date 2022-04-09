@@ -1,7 +1,7 @@
 ---
 title: 쿠버네티스 - 컨테이너간 통신2
 author: YHole
-date: 2022-04-05 +0900
+date: 2022-04-06 +0900
 categories: [CS, Docker]
 tags: [Docker]
 ---

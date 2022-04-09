@@ -1,7 +1,7 @@
 ---
 title: 함수형 프로그래밍 - 온보딩
 author: YHole
-date: 2022-04-05 +0900
+date: 2022-04-08 +0900
 categories: [CS, js]
 tags: [functional]
 ---
