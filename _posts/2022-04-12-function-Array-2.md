@@ -2,7 +2,7 @@
 title: 함수형 프로그래밍 - Array 2
 author: YHole
 date: 2022-04-12 +0900
-categories: [CS, js]
+categories: [Front end, js]
 tags: [functional]
 ---
 
