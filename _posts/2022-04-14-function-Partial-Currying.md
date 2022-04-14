@@ -1,5 +1,5 @@
 ---
-title: 함수형 프로그래밍 - map
+title: 함수형 프로그래밍 - Partial, Currying
 author: YHole
 date: 2022-04-14 +0900
 categories: [Front end, js]
