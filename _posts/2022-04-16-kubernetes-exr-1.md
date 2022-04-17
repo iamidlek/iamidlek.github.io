@@ -1,12 +1,12 @@
 ---
-title: 쿠버네티스 - exr1
+title: 쿠버네티스 - exr1 - POD
 author: YHole
 date: 2022-04-16 +0900
 categories: [CS, Docker]
 tags: [Docker]
 ---
 
-# kubernetes exr1
+# kubernetes exr1 pod
 
 ```bash
 # How many pods exist on the system?
