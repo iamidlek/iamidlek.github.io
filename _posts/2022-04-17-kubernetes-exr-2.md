@@ -1,7 +1,7 @@
 ---
 title: 쿠버네티스 - exr2 - REPLICASETS
 author: YHole
-date: 2022-04-16 +0900
+date: 2022-04-17 +0900
 categories: [CS, Docker]
 tags: [Docker]
 ---
