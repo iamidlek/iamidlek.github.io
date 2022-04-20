@@ -1,7 +1,7 @@
 ---
 title: 쿠버네티스 - exr4 - Namespaces
 author: YHole
-date: 2022-04-18 +0900
+date: 2022-04-19 +0900
 categories: [CS, Docker]
 tags: [Docker]
 ---
